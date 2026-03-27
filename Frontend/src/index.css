@@ -1,0 +1,7 @@
+@import "tailwindcss";
+h1,h2,h3,button,a{
+    font-family: "Poppins", sans-serif;
+}
+p,span,del{
+    font-family: "Roboto", sans-serif;
+}
